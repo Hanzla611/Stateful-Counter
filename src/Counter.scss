@@ -1,0 +1,12 @@
+$font-stack:    Helvetica, sans-serif;
+$primary-color: rgb(238, 161, 20);
+
+body {
+    font: 100% $font-stack;
+    color: $primary-color;
+  }
+
+  .buttons{
+      padding: 50px;
+      font-size: 24px;
+  }
